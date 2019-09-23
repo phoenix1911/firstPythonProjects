@@ -43,3 +43,10 @@ b = ["1", "2", "3"]
 c = [a, b]
 print(c)
 print(c[0][1])
+
+"""列表推导式"""
+vec = [1, 2, 3, 4, 5]
+for x in vec:
+    print(x)
+
+print([3*x for x in vec])

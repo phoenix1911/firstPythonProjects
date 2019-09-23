@@ -30,3 +30,4 @@ print(i+f+b)  # 21.5
 first_name = "三"
 last_name = "张"
 print((first_name+last_name) * 10)
+
